@@ -18,6 +18,7 @@ Go to [http://localhost:8080]
    - Choose your side (Black or White).
    - Open another browser tab and choose again to start playing.
    - Check "Play against AI" to play against computer.
+   - To watch the flow of information between the server and client and see the game state changes, look at the console panel of the browser and the terminal that you used to run the application. I have not created any visual notifications yet. 
 
 ## **Note:** 
 For now, 
