@@ -1,4 +1,4 @@
-A web-based chess game that I developed while I was learning WebSocket and other protocols. Recently I updated it for the assignment and integrated a basic AI that uses minimax algorithm. It supports offline Player vs Player and Player vs AI (minimax) modes.
+A web-based chess game that I developed while I was learning WebSocket and other protocols. I updated it for the assignment and integrated a basic AI that uses minimax algorithm. It supports offline Player vs Player and Player vs AI (minimax) modes.
 
 # How to Run
 
@@ -18,3 +18,12 @@ Go to [http://localhost:8080]
    - Choose your side (Black or White).
    - Open another browser tab and choose again to start playing.
    - Check "Play against AI" to play against computer.
+
+## **Note:** 
+For now, 
+
+En passant and castling are not supported and promotion options are limited to Queen. 
+
+There is no time limit for moves. 
+
+There is no fifty-move rule and threefold repetition rule.
